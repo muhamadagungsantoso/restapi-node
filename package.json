@@ -1,0 +1,21 @@
+{
+  "name": "restapi-node",
+  "version": "1.0.0",
+  "description": "Rest API application",
+  "main": "server.js",
+  "repository": "",
+  "author": "Agung",
+  "license": "MIT",
+  "keywords": [
+    "rest-api",
+    "nodejs",
+    "express",
+    "body-parser",
+    "mysql"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
+}
